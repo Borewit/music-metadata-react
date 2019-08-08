@@ -8,6 +8,9 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
+  "resolutions": {
+    "**/buffer": "5.2.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
