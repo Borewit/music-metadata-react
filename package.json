@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "music-metadata-browser": "^1.6.3",
+    "music-metadata-browser": "^1.7.1",
     "react": "^16.12.0",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
